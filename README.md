@@ -5,7 +5,7 @@ A comprehensive, production-ready multi-agent system built with Google's Agent D
 
 ## 🏗️ Architecture
 
-<img src="deployment/architecture.svg" width="70%" alt="Architecture">
+<img src="deployment/architecture_diagram.svg" width="70%" alt="Architecture">
 
 ### **Production Infrastructure**
 - **PostgreSQL Database**: Cloud SQL instance with structured JSON document storage
